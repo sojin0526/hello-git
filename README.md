@@ -22,9 +22,11 @@
 -5주차
 ---
 - 원격 저장소 만들기
-- origin 연결하기
+  origin 연결하기
 - push
 - pull vs fetch
-- pull
-- fetch
-- 
+  pull
+   fetch
+https://www.kiu.ac.kr
+
+경일대학교
